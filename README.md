@@ -1,11 +1,14 @@
-# architecture-and-system-design
-Resources for architecture and system design skills
+# Resources for Architecture and system design
+This page captures various resources for improving architecture and system design skills
 
 ## Domain Driven Design
 
 ### Books
+- [ ] https://www.amazon.in/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
 
-### Videos
+### Website / Blogs
+- [ ] https://martinfowler.com/bliki/DomainDrivenDesign.html
+- [ ] https://martinfowler.com/bliki/BoundedContext.html
 
 ## Architecture
 
